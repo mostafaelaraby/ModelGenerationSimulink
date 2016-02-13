@@ -8,7 +8,30 @@ Model Generation Libraries is a class built with a set of easy APIs to make it e
 
 ### Table of contents
 
-[TOC]
+*   [Model Generation Libraries](#model-generation-libraries)
+ *   [Table of contents](#table-of-contents)
+    *   [Documentation](#documentation)
+        * [ Create a New Model](#create-a-new-model)
+            *   [ Open a Model](#open-a-model)
+            *   [ Save a Model](#save-a-model)
+            *   [Create a new Subsystem](#create-a-new-subsystem)
+        *   [Load a Library](#load-a-library)
+        *   [Fix Subsystems Names](#fix-subsystems-names)
+        *   [Sort Lines by Port Number](#sort-lines-by-port-number)
+        *   [Restart Routing](#restart-routing)
+        *   [Add From Block](#add-from-block)
+        *   [Go To Block](#go-to-block)
+        *   [Add Operator Block](#add-operator-block)
+        *   [Add Constant Block](#add-constant-block)
+        *   [Add Merge  Block](#add-merge-block)
+        *   [Add Line](#add-line)
+        *   [License](#license)
+
+
+
+
+
+
 
 
 Documentation
